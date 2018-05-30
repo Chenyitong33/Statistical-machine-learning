@@ -1,6 +1,6 @@
 # Statistical Machine Learning
 Try to study and write ML stuff.
-1. 
+==================================================================================================
 Project 1: Linear Regression, Basis Expansion and Regularisation
 
 Statistical Machine Learning (COMP90051), Semester 2, 2017
@@ -8,8 +8,7 @@ Statistical Machine Learning (COMP90051), Semester 2, 2017
 Copyright the University of Melbourne, 2017
 
 
-
-2.
+==================================================================================================
 Project 2: Digit Recognition
 
 Statistical Machine Learning (COMP90051), Semester 2, 2017
